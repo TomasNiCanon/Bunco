@@ -25,7 +25,7 @@ int main()
 
 
     do{
-
+    cout<<"Hola"<<endl;
     printf("1. Espa%col",164);
     cout<<endl<<"2. English"<<endl;
     cin>>opcmain;

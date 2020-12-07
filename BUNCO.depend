@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1605641474 source:c:\users\tomas\desktop\utn pacheco\tenicatura programacion y sistemas informaticos\cuatrimestre agosto-diciembre 2020\laboratorio i\trabajo integrador\bunco\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesGenerales.h"
+	"funcionesEspecificas.h"
+	"rlutil.h"
+
+1605462979 c:\users\tomas\desktop\utn pacheco\tenicatura programacion y sistemas informaticos\cuatrimestre agosto-diciembre 2020\laboratorio i\trabajo integrador\bunco\funcionesgenerales.h
+
+1606520873 c:\users\tomas\desktop\utn pacheco\tenicatura programacion y sistemas informaticos\cuatrimestre agosto-diciembre 2020\laboratorio i\trabajo integrador\bunco\funcionesespecificas.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1605462981 c:\users\tomas\desktop\utn pacheco\tenicatura programacion y sistemas informaticos\cuatrimestre agosto-diciembre 2020\laboratorio i\trabajo integrador\bunco\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
